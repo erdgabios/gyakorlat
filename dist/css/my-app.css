@@ -1,0 +1,11 @@
+body > div.panel.panel-left.panel-reveal.active {
+    background-color: gold;
+}
+
+body > div.panel.panel-left.panel-reveal.active > div > div > ul > li > div > div.item-inner {
+    background-color: gold;
+}
+
+body > div.panel.panel-left.panel-reveal.active > div > div > ul > li > div {
+    background-color: gold;
+}
