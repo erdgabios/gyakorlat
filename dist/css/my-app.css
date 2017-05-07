@@ -1,29 +1,69 @@
-body > div.panel.panel-left.panel-reveal {
-    background-color: gold;
-}
+/*body > div.panel.panel-left.panel-reveal {*/
+    /*background-color: gold;*/
+/*}*/
 
-body > div.panel.panel-left.panel-reveal > div > div > ul > li > div > div.item-inner {
-    background-color: gold;
-}
+/*body > div.panel.panel-left.panel-reveal > div > div > ul > li > div > div.item-inner {*/
+    /*background-color: gold;*/
+/*}*/
 
-body > div.panel.panel-left.panel-reveal > div > div > ul > li > div {
+/*body > div.panel.panel-left.panel-reveal > div > div > ul > li > div {*/
+    /*background-color: gold;*/
+/*}*/
+
+/*div.item-title {*/
+    /*color: #000;*/
+/*}*/
+
+/*div.item-inner {*/
+    /*color: #000;*/
+
+/*}*/
+
+/*a {*/
+    /*color: #000;*/
+/*}*/
+
+/*div.item-content {*/
+    /*color: gold;*/
+    /*background-color: gold;*/
+/*}*/
+
+/*span {*/
+    /*color: rgb(0, 118, 255);*/
+/*}*/
+
+.panel, div.item-content {
     background-color: gold;
+    color: gold;
 }
 
 div.item-title {
-    color: #000;
+    color: red;
 }
 
-div.item-inner {
-    color: #000;
+div.accordion-item-content {
+    background-color: #e5e5e5;
+}
+
+a.item-content.item-link {
+    background-color: rgb(239,239,244);
+}
+
+
+h3, p {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+hr.divide {
+    margin: 0px 10px;
 
 }
 
-a {
-    color: #000;
+hr.map {
+    margin: 10px;
 }
 
-div.item-content {
-    color: gold;
-    background-color: gold;
+#mapDiv > div > div > div:nth-child(1) > div:nth-child(3) > div {
+    padding: 10px;
 }
