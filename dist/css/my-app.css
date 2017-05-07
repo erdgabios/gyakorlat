@@ -9,3 +9,21 @@ body > div.panel.panel-left.panel-reveal > div > div > ul > li > div > div.item-
 body > div.panel.panel-left.panel-reveal > div > div > ul > li > div {
     background-color: gold;
 }
+
+div.item-title {
+    color: #000;
+}
+
+div.item-inner {
+    color: #000;
+
+}
+
+a {
+    color: #000;
+}
+
+div.item-content {
+    color: gold;
+    background-color: gold;
+}
