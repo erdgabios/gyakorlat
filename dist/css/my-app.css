@@ -108,3 +108,10 @@ div.page-content.kapcsolat {
 div.page-content.szinesz {
     margin: 0 5px;
 }
+
+div.accordion-item-content {
+    padding: 5px 5px;
+    background-color: rgb(239,239,244);
+}
+
+
