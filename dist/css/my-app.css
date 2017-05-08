@@ -41,8 +41,15 @@ div.item-title {
     color: red;
 }
 
+
 div.accordion-item-content {
     background-color: #e5e5e5;
+}
+
+h2 {
+    margin-top: 0px;
+    background-color: red;
+    color: white;
 }
 
 a.item-content.item-link {
