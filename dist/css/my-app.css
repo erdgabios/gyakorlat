@@ -37,6 +37,16 @@
     color: gold;
 }
 
+div.item-content.muveszeink {
+    background-color: red;
+}
+
+h4.nev {
+    margin-top: 0;
+    align: center;
+    color: white;
+}
+
 div.item-title {
     color: red;
 }
@@ -52,18 +62,22 @@ h2 {
     color: white;
 }
 
+h2.nev.vezetes {
+    margin-bottom: 0;
+}
+
 a.item-content.item-link {
     background-color: rgb(239,239,244);
 }
 
 
 h3, p {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 hr.divide {
-    margin: 0px 10px;
+    margin: 0px 5px;
 
 }
 
@@ -71,6 +85,19 @@ hr.map {
     margin: 10px;
 }
 
-#mapDiv > div > div > div:nth-child(1) > div:nth-child(3) > div {
-    padding: 10px;
+
+.muveszeti-vezetes {
+    margin-top: 0px;
+    color: red;
 }
+
+.muveszeti-vezetes-nev {
+    margin-bottom: 0px;
+}
+
+
+
+.content-block {
+    padding: 0 0;
+}
+
